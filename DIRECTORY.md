@@ -100,6 +100,7 @@
   * [Elgamal Key Generator](ciphers/elgamal_key_generator.py)
   * [Enigma Machine2](ciphers/enigma_machine2.py)
   * [Fractionated Morse Cipher](ciphers/fractionated_morse_cipher.py)
+  * [Gronsfeld Cipher](ciphers/gronsfeld_cipher.py)
   * [Hill Cipher](ciphers/hill_cipher.py)
   * [Mixed Keyword Cypher](ciphers/mixed_keyword_cypher.py)
   * [Mono Alphabetic Ciphers](ciphers/mono_alphabetic_ciphers.py)
@@ -212,6 +213,7 @@
     * [Lazy Segment Tree](data_structures/binary_tree/lazy_segment_tree.py)
     * [Lowest Common Ancestor](data_structures/binary_tree/lowest_common_ancestor.py)
     * [Maximum Fenwick Tree](data_structures/binary_tree/maximum_fenwick_tree.py)
+    * [Maximum Sum Bst](data_structures/binary_tree/maximum_sum_bst.py)
     * [Merge Two Binary Trees](data_structures/binary_tree/merge_two_binary_trees.py)
     * [Mirror Binary Tree](data_structures/binary_tree/mirror_binary_tree.py)
     * [Non Recursive Segment Tree](data_structures/binary_tree/non_recursive_segment_tree.py)
@@ -348,6 +350,9 @@
   * [Peak](divide_and_conquer/peak.py)
   * [Power](divide_and_conquer/power.py)
   * [Strassen Matrix Multiplication](divide_and_conquer/strassen_matrix_multiplication.py)
+
+## Docs
+  * [Conf](docs/conf.py)
 
 ## Dynamic Programming
   * [Abbreviation](dynamic_programming/abbreviation.py)
@@ -789,6 +794,7 @@
   * [Cramers Rule 2X2](matrix/cramers_rule_2x2.py)
   * [Inverse Of Matrix](matrix/inverse_of_matrix.py)
   * [Largest Square Area In Matrix](matrix/largest_square_area_in_matrix.py)
+  * [Matrix Based Game](matrix/matrix_based_game.py)
   * [Matrix Class](matrix/matrix_class.py)
   * [Matrix Equalization](matrix/matrix_equalization.py)
   * [Matrix Multiplication Recursion](matrix/matrix_multiplication_recursion.py)
